@@ -1,0 +1,20 @@
+{
+  "name": "projectmanagement",
+  "version": "1.0.0",
+  "description": "a project management application to handle, manage tasks and projects",
+  "keywords": [
+    "project",
+    "management",
+    "backend"
+  ],
+  "license": "ISC",
+  "author": "aksha malik",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "devDependencies": {
+    "prettier": "3.7.4"
+  }
+}
